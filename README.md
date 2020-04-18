@@ -26,4 +26,4 @@ For instructions on how to run my code and use magenta please follow the link to
 
 
 ## Further Developments:
-  - A larger dataset to include more artists, and more and longer training on larger dataset.
+  - A larger dataset to include more artists and sonds, and more and longer training on said larger dataset.
