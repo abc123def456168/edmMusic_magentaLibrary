@@ -17,6 +17,7 @@ trainedPolyphony_rnn4584.mag (model file)
   
 data (folder)
   - This folder contains all the midi files I trained on, the notes array file, and the sequence examples for taining. I had to convert the midi files into a single notes array which was then broken up into sequences for training. These data processing steps are shown in the magentaModel.ipynb file.
+  
   -Artists used include: Steve Aoki, San Holo, Avicii, K-391, and Alan Walker
   
 samples (folder)
