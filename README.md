@@ -6,6 +6,8 @@ For instructions on how to run my code and use magenta please follow the link to
   - Magenta Github: https://github.com/tensorflow/magenta
   - Polyphonic_Rnn: https://github.com/tensorflow/magenta/tree/master/magenta/models/polyphony_rnn
   
+Note: Magenta library must be installed and cloned to be able to use models and run provided code.
+  
 ## magentaTrial_Demonstration.ipynb (jupyter notebook):
   - This file is a demonstration of magenta on a random midi file using a pretrained polyphony_rnn model provided by magenta.
   
