@@ -7,10 +7,10 @@ For instructions on how to run my code and use magenta please follow the link to
   - Polyphonic_Rnn: https://github.com/tensorflow/magenta/tree/master/magenta/models/polyphony_rnn
   
 magentaTrial_Demonstration.ipynb (jupyter notebook)
-  - This file is a demonstration of magenta on a random midi file using a pretrained polyphony_rnn model provided by magenta
+  - This file is a demonstration of magenta on a random midi file using a pretrained polyphony_rnn model provided by magenta.
   
 magentaModel.ipynb (jupyter notebook)
-  - This file is the code I used to train the modelmodel
+  - This file is the code I used to train the modelmodel.
   
 trainedPolyphony_rnn4584.mag (model file)
   - This file is the final and best model saved from training. It had an accuracy metric of .957...
