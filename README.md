@@ -30,5 +30,9 @@ Note: training_poly_tracks.tfrecord was uploaded as training_poly_tracks.zip bec
 
 Note: The tag at the end of each sample folder (dh# or ph#) is the midi primer used from data/midiArtists/midiRandomParts
 
+## developedSamples (folder): 
+  - This folder contains samples developed by others using audio engineering software to create an EDM track of a sample from the samples folder.
+  - If you developed a track please save it here. Thank you.
+  
 ## Further Developments:
   - A larger dataset to include more artists and sonds, and more and longer training on said larger dataset.
